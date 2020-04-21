@@ -1,3 +1,7 @@
 /*
  * Add your CSS styles to this file.
  */
+
+ .navbar{
+   display: inline-block;
+ }

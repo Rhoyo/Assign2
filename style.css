@@ -49,9 +49,17 @@ a h1{
   position: relative;
 }
 
+.navlist .navitem.navlink.active{
+  padding-bottom: 7px;
+  border-bottom-style: solid;
+  border-width: 3px;
+  border-color: #309CF7;
+}
+
 .navlist li :hover{
   color: #309CF7;
 }
+
 
 .navbar .navlist li.navitem.navbar-search{
   margin-left: auto;
